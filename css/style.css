@@ -1,0 +1,58 @@
+.homepage{
+    background-color:#fceae8;
+    border-radius: 5px;
+    margin: 50px 0;
+}
+.img-fld{
+    height: 360px;
+    width: 400px;
+}
+.content{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.price{
+    font-size: 31px;
+    color: #ff3e8b;
+    font-weight: bold;
+}
+.btn-pink:hover{
+    background-color: #e94a8a;
+    color: white;
+}
+.btn-pink{
+    color: white;
+    background-color: #ff3e8b ;
+}
+.resize{
+    height: 100px;
+    width: 100px;
+}
+.productname{
+    margin-top: 25px;
+    margin-left: 60px;
+}
+.shoes h4{
+    margin-top: 50px;
+}
+
+.cart:hover{
+    box-shadow: none;
+}
+.enditem{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.subscribe{
+    background-color: #fceae8;
+}
+.subscribe input{
+    width: 330px;
+    border: none;
+    border-radius: 5px;
+    height: 36px;
+}
+.subscribe .btn-pink{
+    margin-left: -250px;
+}

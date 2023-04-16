@@ -1,0 +1,20 @@
+
+.BB{
+    font-size: 50px;
+    color: red;
+}
+.currentweather h1{
+    text-align: center;
+}
+
+.currentweather h3{
+    text-decoration: underline;
+
+}
+.wide{
+    width: 440px;
+}
+#card{
+    margin-top: 60px;
+    
+}
